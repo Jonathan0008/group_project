@@ -1,5 +1,5 @@
 const Generations = () => {
-    return <p> Footer</p>;
+    return <p> Generations</p>;
   };
   
   export default Generations;

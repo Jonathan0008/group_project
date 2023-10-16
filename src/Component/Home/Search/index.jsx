@@ -1,5 +1,5 @@
 const Search = () => {
-    return <p> Footer</p>;
+    return <p> Search</p>;
   };
   
   export default Search;
